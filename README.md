@@ -47,6 +47,7 @@ Components Used:
 | Jumper wires                  | Several  | Connections                |
 
 
+
 Pin Connections (ESP32-CAM → Motor Driver):
 | ESP32-CAM Pin | Motor Driver Function |
 | ------------- | --------------------- |
@@ -76,6 +77,7 @@ Full Source Code:
 Already included in the github.
 
 
+
 Future Improvements:
 
 1. Add obstacle avoidance.
@@ -90,6 +92,7 @@ Future Improvements:
 
 
 Credits:
+
 Made by MANSUR ISAH (SmartSense)
 
 Team: THE ROBOT MAKERS.
