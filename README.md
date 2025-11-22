@@ -1,7 +1,7 @@
               ESP32-CAM Surveillance Robot Car
 Live Video Streaming + WiFi Web Control.
 
-Created by THE ROBOT MAKERS (SmartSense).   
+Created by THE ROBOT MAKERS
 
 
 Project Overview:
